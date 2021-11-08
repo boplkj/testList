@@ -1,0 +1,39 @@
+.item {
+  border: 1px solid black;
+  height: 150px;
+  margin: 20px;
+  max-width: 100%;
+  padding-right: 10px;
+} 
+
+.id {
+  align-self: flex-end;
+}
+
+.content {
+  flex-direction: row;
+  margin: 10px;
+  max-width: 100%;
+} 
+
+.leftHalf {
+margin: 5px;
+justify-content: center;
+}
+
+.rightHalf {
+  max-width: 60%;
+  margin-left: 50px;
+  align-items: flex-start;
+}
+
+.cardId {
+  margin: 5px;
+  color: red; 
+  font-size: 10px; 
+} 
+
+.image{
+height: 80px;
+width: 80px;
+} 

@@ -1,0 +1,16 @@
+.userScreen{
+  margin: 10px;
+}
+.image {
+  height: 300;
+  margin-top: 10px
+}
+
+.content {
+  align-items: center;
+  margin-top: 20px;
+}
+
+.headerText {
+  font-size: 20px;
+} 
