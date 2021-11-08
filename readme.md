@@ -2,6 +2,7 @@
 ## _Тестовое задание_
 
 ![Alt text](/screenshots/1.png?raw=true)
+![Alt text](/screenshots/2.png?raw=true)
 
 ## Что умеет
 - Запрашивать GitHub api
