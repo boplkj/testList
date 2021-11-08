@@ -1,6 +1,8 @@
 # GitHub User List
 ## _Тестовое задание_
 
+![Alt text](/screenshots/1.png?raw=true)
+
 ## Что умеет
 - Запрашивать GitHub api
 - Автоматически обновлять страницу каждые 60 секунд
@@ -30,5 +32,5 @@ In the project directory, you can run:
 ## License
 MIT
 
-"Have a Good Day " 
+"Have a Good Day" 
 
